@@ -2,7 +2,7 @@
   "name": "Web API formatter",
   "description": "Beautify your Dynamics 365/Power Platform WebAPI results.",
   "version": "1.0",
-  "manifest_version": 1,
+  "manifest_version": 3,
   "background" : 
   {
     "service_worker" : "background.js"
